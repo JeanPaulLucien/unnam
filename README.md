@@ -5,3 +5,6 @@ You can only read you mails, not manage.
 
 ## Supported mail providers
 Freemail, Gmail, Mail.ru, Yandex
+
+## Status
+In development. Nightly version.
