@@ -1,7 +1,7 @@
 # unnam
-This is small utility with SSL to get you mail from mailbox
+Unnam is small utility with SSL to get you mail from mailbox
 
-You can only read you mails, not manage.
+You can only read you mails, not manage. While I don't plan to add management function.
 
 ## Supported mail providers
 Freemail, Gmail, Mail.ru, Yandex
